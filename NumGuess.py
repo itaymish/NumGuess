@@ -19,8 +19,7 @@ def main():
 
 	eyg = Entry(root)
 	eyg.pack()
-
-	eyg.insert(0, ran)
+	
 	def chk(guess):
 		global ran
 		global tries
