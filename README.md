@@ -17,6 +17,6 @@ The app use is easy. The computer picks a number between 1 to 100. All you need 
 
 If there's a bug or an issue, please report it.
 
-## Itch.io
+## Website
 
-Itch.io website - coming soon!
+An official website - coming soon!
