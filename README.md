@@ -11,7 +11,7 @@ The app is downloadable just for MacOS now. For Windows - coming soon!
 
 ## Usage
 
-The app use is easy. The computer picks a number between 1 t 100. All you need to do is enter your guess, and that's it!
+The app use is easy. The computer picks a number between 1 to 100. All you need to do is enter your guess, and that's it!
 
 ## Issues and bugs
 
